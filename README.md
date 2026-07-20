@@ -1,8 +1,9 @@
 # Olá! Eu sou Gabriel da Silva Lopes
 
 ```
-Estudante de Ciência da Computação | Tecnologia da Informação
-Belém, Pará, Brasil
+💻 Ciência da Computação • Faci Wyden
+🛠️ Suporte Técnico
+🚀 Desenvolvimento de Software
 ```
 
 ---
